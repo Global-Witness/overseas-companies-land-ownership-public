@@ -1,0 +1,6 @@
+geopandas==0.3.0
+pandas==0.20.1
+requests==2.14.2
+missingno==0.3.7
+matplotlib==2.0.2
+numpy==1.12.1
