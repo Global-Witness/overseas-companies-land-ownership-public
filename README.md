@@ -10,4 +10,4 @@ The Jupyter notebook depends on modules and their appropriate versions given in 
 
 ### Data
 
-The data for this analysis comes from the Land Registry. The first dataset up to October 2015 is freely available (although [not under an open license](https://datasets.landregistry.gov.uk/overseas/printable_terms/)) at [https://www.gov.uk/guidance/hm-land-registry-overseas-companies-data](https://www.gov.uk/guidance/hm-land-registry-overseas-companies-data). The snapshot from 2017 was purchased by Global Witness and processed to form a new .sqlite data product. 
+The data for this analysis comes from the Land Registry. The first dataset up to October 2015 is freely available (although [not under an open license](https://datasets.landregistry.gov.uk/overseas/printable_terms/)) at [https://www.gov.uk/guidance/hm-land-registry-overseas-companies-data](https://www.gov.uk/guidance/hm-land-registry-overseas-companies-data). The data from 2017 must be purchaed from the Land Resgistry to reproduce this analysis.
