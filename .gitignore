@@ -1,2 +1,7 @@
 /data/oct_2017_ov_data_product.sqlite
 /data/2017_geocoded.csv
+/outputs/land_registry_october_2017.csv
+/data/2017_geocoded.csv
+geocoding_and_constituency_counts.ipynb
+/data/ONSPD_NOV_2017_UK.csv
+API_KEYS.py
