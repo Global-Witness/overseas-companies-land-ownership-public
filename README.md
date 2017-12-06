@@ -4,9 +4,9 @@
 
 Thiis a collaborative analysis undertaken by Who Owns England, Global Witness and Transparency International UK. Analysis is produced in a Jupyter notebook in Python. Research steps are described in plain non-technical English throughout the notebook.
 
-## Modules
+### Modules/package
 
-The Jupyter notebook depends on modules and their appropriate versions given in the Requirements.txt file.
+The Jupyter notebook depends on modules and their appropriate versions given in the requirements.txt file.
 
 ### Data
 
