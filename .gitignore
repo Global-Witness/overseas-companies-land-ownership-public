@@ -5,3 +5,7 @@
 geocoding_and_constituency_counts.ipynb
 /data/ONSPD_NOV_2017_UK.csv
 API_KEYS.py
+.DS_Store
+*.pyc
+*.egg-info
+build
